@@ -1,0 +1,3 @@
+venv/
+cookies_snapshot/
+docker-compose.yaml
