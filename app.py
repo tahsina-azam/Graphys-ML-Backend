@@ -47,3 +47,4 @@ if __name__ == "__main__":
 
 
     # flask --app app run -h 0.0.0.0 -p 5000
+    # curl -X GET https://ielts.hacknperl.com/ml/process/I+have+2+bananas+and+3+mangoes
